@@ -9,5 +9,8 @@
   "author": "dgabrielli76",
   "devDependencies": {
     "electron-prebuilt": "^0.37.8"
+  },
+  "dependencies": {
+    "electron-packager": "^8.1.0"
   }
 }
