@@ -1,3 +1,4 @@
 # duplitop-draw
 
-explain app
+This app is an [Electron](http://electron.atom.io/) app. The aim of this application is to provide a desktop
+application that allows  some drawing lots for duplitop.
